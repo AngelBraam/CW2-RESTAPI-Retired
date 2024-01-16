@@ -1,0 +1,6 @@
+@CW2_RESTAPI_HostAddress = http://localhost:5234
+
+GET {{CW2_RESTAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
